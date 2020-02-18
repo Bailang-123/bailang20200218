@@ -1,0 +1,2 @@
+include ':app', ':myapplication', ':erweima', ':myapplication2', ':bailang20200218'
+rootProject.name='week3'
